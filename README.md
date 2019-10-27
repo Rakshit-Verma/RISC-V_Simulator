@@ -20,6 +20,6 @@ The Project currently supports all instructions available in format.txt file. Ps
 
 
 # Built By
-	Kritagya Agarwal
+	Rakshit
 
 
